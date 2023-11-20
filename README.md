@@ -31,7 +31,7 @@ You can easily customize various aspects of the script, such as the batch size f
 
 ## Acknowledgements
 
-This script was hacked together by Daniel Raffel, based on the original work shared by [Colugo Music](https://x.com/ColugoMusic/status/1726001266180956440?s=20). It is intended for creative and experimental sound processing projects.
+This script was hacked together by Daniel Raffel, based on the original work shared by [Colugo Music](https://x.com/ColugoMusic/status/1726001266180956440?s=20). It is intended for creative and experimental sound processing projects. Translated for wider format support by Benn Jordan.
 
 ## License
 
